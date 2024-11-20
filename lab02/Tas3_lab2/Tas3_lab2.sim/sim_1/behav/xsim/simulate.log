@@ -1,0 +1,10 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+time	 a  b cin  sum carry
+10000	 0010 1001 1  1001  0
+20000	 0010 1001 0  1011  0
+30000	 1001 1101 1  1100  0
+40000	 0110 1010 1  1100  0
+50000	 1001 1101 0  0110  1
+60000	 0110 1010 0  0000  1
+$finish called at time : 60 ns : File "/home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.srcs/sim_1/new/tb_Sub_Adder.sv" Line 40

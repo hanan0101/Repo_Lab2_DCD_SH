@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Task3_FA/Task3_FA.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Task3_FA/Task3_FA.srcs/sim_1/new/test_FA.sv,1731349255,systemVerilog,,,,test_FA,,,,,,,,
+/home/it/Task3_FA/Task3_FA.srcs/sources_1/new/HA1.sv,1731356475,systemVerilog,,/home/it/Task3_FA/Task3_FA.srcs/sources_1/new/HA2.sv,,HA,,,,,,,,
+/home/it/Task3_FA/Task3_FA.srcs/sources_1/new/HA2.sv,1731353953,systemVerilog,,/home/it/Task3_FA/Task3_FA.srcs/sim_1/new/test_FA.sv,,FA,,,,,,,,

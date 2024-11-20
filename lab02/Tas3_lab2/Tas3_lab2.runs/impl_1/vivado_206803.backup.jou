@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Nov 20 11:17:20 2024
+# Process ID: 206803
+# Current directory: /home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.runs/impl_1
+# Command line: vivado -log sub_Adder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sub_Adder.tcl -notrace
+# Log file: /home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.runs/impl_1/sub_Adder.vdi
+# Journal file: /home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source sub_Adder.tcl -notrace

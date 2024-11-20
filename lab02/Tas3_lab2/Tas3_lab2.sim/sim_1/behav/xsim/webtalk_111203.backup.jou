@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov 19 22:28:25 2024
+# Process ID: 111203
+# Current directory: /home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.sim/sim_1/behav/xsim/xsim.dir/td_Adder4_bit_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/it/01Design_repo/lab02/Tas3_lab2/Tas3_lab2.sim/sim_1/behav/xsim/xsim.dir/td_Adder4_bit_behav/webtalk/xsim_webtalk.tcl -notrace
