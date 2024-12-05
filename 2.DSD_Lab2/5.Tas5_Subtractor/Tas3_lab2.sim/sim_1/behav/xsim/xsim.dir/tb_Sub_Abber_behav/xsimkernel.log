@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_Sub_Abber_behav/xsimk -simmode gui -wdb tb_Sub_Abber_behav.wdb -simrunnum 0 -socket 53341
+Design successfully loaded
+Design Loading Memory Usage: 33020 KB (Peak: 33568 KB)
+Design Loading CPU Usage: 50 ms
+Simulation completed
+Simulation Memory Usage: 114756 KB (Peak: 172288 KB)
+Simulation CPU Usage: 60 ms
